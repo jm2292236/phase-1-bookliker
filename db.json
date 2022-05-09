@@ -258,6 +258,11 @@
     {
       "id": 10,
       "username": "macejkovic"
+    },
+    {
+      "id": "999",
+      "email": "fulanito",
+      "bookId": "1"
     }
   ]
 }

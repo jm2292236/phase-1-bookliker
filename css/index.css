@@ -2,3 +2,8 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+.book-on-list:hover {
+	background: lightskyblue;
+	font-weight: bold;
+}
